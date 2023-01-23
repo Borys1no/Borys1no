@@ -47,8 +47,7 @@ Soy programador Web Junior y estudiante de la carrera de Ingenieria en Software,
 
 ---
 
-[twitter]: https://twitter.com/Souravdey777
-[youtube]: https://youtube.com/
+[twitter]: https://twitter.com/BorysCereceda
 [instagram]: https://www.instagram.com/souravdey777/
 [linkedin]: https://www.linkedin.com/in/borys-cereceda-guzman/
 [medium]: https://medium.com/@Souravdey777/
