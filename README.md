@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/63252903/213957286-e1a3a8c0-8cc0-4761-9b2b-a349a44c7f89.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-Soy programador Web Junior y estudiante de la carrera de Ingenieria en Software, tengo experiencia en el desarrollo web, he trabajado en varios proyectos personales con diferentes lenguajes y tecnologias web como PHP, Javascript, Mysql, Css, HTML, entre otros. Estoy dispuesto a aprender mas lenguajes y tecnologias, actualmente hago software por mi propia cuenta, pero me encuentro en el proceso de busqueda laboral como desarrollador, me adapto facilemte a cualquier tecnologia y soy adutodidacta.   :wink:
+Soy programador Web Junior y estudiante de la carrera de Ingenieria en Software, tengo experiencia en el desarrollo web, he trabajado en varios proyectos personales con diferentes lenguajes y tecnologias web como PHP, Javascript, Mysql, Css, HTML, entre otros. Estoy dispuesto a aprender mas lenguajes y tecnologias, actualmente hago software por mi propia cuenta, pero me encuentro en el proceso de busqueda laboral como desarrollador, me adapto facilmente a cualquier tecnologia y soy adutodidacta.   :wink:
  
  🔭 Ahora estoy desarrollando un Sistema de inventario para un Minimarket en Java y Mysql.
  
