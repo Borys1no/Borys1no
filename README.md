@@ -7,7 +7,7 @@
 
 Soy programador Web Junior y estudiante de la carrera de Ingenieria en Software, tengo experiencia en el desarrollo web, he trabajado en varios proyectos personales con diferentes lenguajes y tecnologias web como PHP, Javascript, Mysql, Css, HTML, entre otros. Estoy dispuesto a aprender mas lenguajes y tecnologias, actualmente hago software por mi propia cuenta, pero me encuentro en el proceso de busqueda laboral como desarrollador, me adapto facilmente a cualquier tecnologia y soy adutodidacta.   :wink:
  
- 🔭 Ahora estoy desarrollando un Sistema de inventario para un Minimarket en Java y Mysql.
+
  
  :books: Actualmente estoy estudiando Laravel Framework de PHP.
  
