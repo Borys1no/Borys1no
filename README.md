@@ -2,8 +2,11 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Borys+Cereceda+Guzman..&hearts;++;Software Engineer,;Web Developer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Borys+Cereceda+Guzmán;Software+Engineer;Web+Developer" />
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/63252903/213957286-e1a3a8c0-8cc0-4761-9b2b-a349a44c7f89.png" width="100%" title="Intro Card" alt="Intro Card">
