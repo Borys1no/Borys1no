@@ -33,16 +33,25 @@ Estoy comprometido con la mejora continua y con el desarrollo de soluciones efic
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+
+---
+
 ###BASES DE DATOS:
+
 <img src ="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
 <img src ="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white">
+
+---
 ###HERRAMIENTAS:
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
 ![Nano](https://img.shields.io/badge/Nano-4E9A06?style=flat-square&logo=gnubash&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Kate](https://img.shields.io/badge/Kate-2C2C2C?style=flat-square&logo=kde&logoColor=blue)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+---
 
 
 ### Mis redes sociales 🌍
