@@ -5,6 +5,9 @@
   <img src="https://user-images.githubusercontent.com/63252903/213957286-e1a3a8c0-8cc0-4761-9b2b-a349a44c7f89.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjB5ZTBoemNvNGtyZGY5YWE4dXZlYjlpMnNmcW1mYXp0Y3J3YnE3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif">
+</a>
 Soy Desarrollador Web con experiencia en el desarrollo de aplicaciones y sitios web, tanto en frontend como en backend. He trabajado en diversos proyectos utilizando tecnologías como HTML, CSS, JavaScript, React, Vite, PHP, MySQL, Firebase y Node.js.
 
 Me considero una persona autodidacta, con alta capacidad de adaptación a nuevas herramientas y entornos de trabajo. Actualmente desarrollo software como Freelancer y me encuentro en búsqueda de nuevas oportunidades laborales donde pueda aportar valor y seguir creciendo como profesional.
