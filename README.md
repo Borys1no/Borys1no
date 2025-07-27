@@ -38,14 +38,5 @@ Estoy comprometido con la mejora continua y con el desarrollo de soluciones efic
 
 
 ### Mis redes sociales 🌍
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/borys-cereceda-guzman/">
 
-[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-
-
-<br/>
-
-
----
-
-[twitter]: https://twitter.com/BorysCereceda
-[linkedin]: https://www.linkedin.com/in/borys-cereceda-guzman/
