@@ -38,8 +38,7 @@ Estoy comprometido con la mejora continua y con el desarrollo de soluciones efic
 
 
 ### Mis redes sociales 🌍
-[![LinkedIn]()]
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" >][linkedin]
+
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 
 
