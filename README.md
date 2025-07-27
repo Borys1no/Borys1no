@@ -36,13 +36,14 @@ Estoy comprometido con la mejora continua y con el desarrollo de soluciones efic
 
 ---
 
-###BASES DE DATOS:
+### BASES DE DATOS:
 
-<img src ="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
 <img src ="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white">
+<img src ="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
+
 
 ---
-###HERRAMIENTAS:
+### HERRAMIENTAS:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
